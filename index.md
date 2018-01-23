@@ -1,5 +1,4 @@
 ## Kristian Chisholm 
-IMG_0595.jpg
 4400 Queen Palm lane, Tamarac, Florida  |  kchis005@fiu.edu or kristianc.kc@gmail.com  |  786-543-4425
 
 ### Skills & Abilities 
