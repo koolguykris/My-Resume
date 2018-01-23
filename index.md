@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Kristian Chisholm 
+4400 Queen Palm lane, Tamarac, Florida  |  kchis005@fiu.edu or kristianc.kc@gmail.com  |  786-543-4425
 
-You can use the [editor on GitHub](https://github.com/koolguykris/Resume-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Skills & Abilities 
+•	Social media expertise: Facebook, Twitter, Instagram, Pinterest, Vine, Google+, YouTube, Tumblr, SnapChat, and social media analytic tools
+•	Proficiency in Microsoft Office Suite (i.e., Word, Excel, PowerPoint and Outlook)
+•	Verbal and written communication skills.
+•	Time management, prioritization & organizational skills.
+•	Proficient in the Java coding language.
+•	Strong verbal communication
+•	Team Leadership
+•	Extremely Organized
+•	High Energy
+Relationship Building
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education: 
+Flordia International University, Tamiami
+3rd year.
+Majoring in Informational Technology Software, I currently have a 3.5 GPA. I have been awarded deans list fall 2015, fall 2016, & fall 2017.  I am also a recipient of the National Multiple Sclerosis Scholarship. 
+•	Programming 1
+•	Programming 2
+•	Discrete Math
+Excel
+### Leadership:
+•	I attended the Chick Fil A Leadership Academy in High School and I was taught the finest skills on how to be a leader and how to treat others. 
+• I was in the Student Government Association in my High School I organized many events and lead our team to success. 
+• I am currently a Resident Assistant with FIU Residential Life. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/koolguykris/Resume-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
